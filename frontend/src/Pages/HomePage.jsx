@@ -1,5 +1,5 @@
 import Navbar from "../componets/Navbar";
-import RateLimitedUI from "../componets/RateLimitedUi";
+import RateLimitedUI from "../componets/RateLimitedUI";
 import NoteCard from "../componets/NoteCard"
 import NotesNotFound from "../componets/NotesNotFound";
 
